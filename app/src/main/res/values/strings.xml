@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Activity 1</string>
+    <string name="welcome_homescreen">Welcome Melencion!</string>
+    <string name="back_button">Return</string>
+
+    <string name="Activity1">You are in Activity 1! ୨ৎ</string>
+    <string name="Activity2">You are in Activity 2! ୨ৎ</string>
+    <string name="Activity3">You are in Activity 3! ୨ৎ</string>
+    <string name="Activity4">You are in Activity 4! ୨ৎ</string>
+    <string name="Activity5">You are in Activity 5! ୨ৎ</string>
+
 </resources>
